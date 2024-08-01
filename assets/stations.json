@@ -604,6 +604,23 @@
         ]
     },
     {
+        "name" : "Beaconsfield",
+        "disambiguation" : null,
+        "localAuthority" : "Buckinghamshire",
+        "lines" : [
+            "Chiltern Railways"
+        ],
+        "zones" : [
+            16
+        ],
+        "modes" : [
+            "National Rail"
+        ],
+        "riverBanks" : [
+            "North"
+        ]
+    },
+    {
         "name" : "Beckenham Hill",
         "disambiguation" : null,
         "localAuthority" : "Lewisham",
@@ -2762,6 +2779,40 @@
         ]
     },
     {
+        "name" : "Denham",
+        "disambiguation" : null,
+        "localAuthority" : "Buckinghamshire",
+        "lines" : [
+            "Chiltern Railways"
+        ],
+        "zones" : [
+            16
+        ],
+        "modes" : [
+            "National Rail"
+        ],
+        "riverBanks" : [
+            "North"
+        ]
+    },
+    {
+        "name" : "Denham Golf Club",
+        "disambiguation" : null,
+        "localAuthority" : "Buckinghamshire",
+        "lines" : [
+            "Chiltern Railways"
+        ],
+        "zones" : [
+            16
+        ],
+        "modes" : [
+            "National Rail"
+        ],
+        "riverBanks" : [
+            "North"
+        ]
+    },
+    {
         "name" : "Denmark Hill",
         "disambiguation" : null,
         "localAuthority" : "Southwark",
@@ -3879,6 +3930,23 @@
         ]
     },
     {
+        "name" : "Gerrards Cross",
+        "disambiguation" : null,
+        "localAuthority" : "Buckinghamshire",
+        "lines" : [
+            "Chiltern Railways"
+        ],
+        "zones" : [
+            16
+        ],
+        "modes" : [
+            "National Rail"
+        ],
+        "riverBanks" : [
+            "North"
+        ]
+    },
+    {
         "name" : "Gidea Park",
         "disambiguation" : null,
         "localAuthority" : "Havering",
@@ -4981,6 +5049,23 @@
         ],
         "modes" : [
             "Underground"
+        ],
+        "riverBanks" : [
+            "North"
+        ]
+    },
+    {
+        "name" : "High Wycombe",
+        "disambiguation" : null,
+        "localAuthority" : "Buckinghamshire",
+        "lines" : [
+            "Chiltern Railways"
+        ],
+        "zones" : [
+            16
+        ],
+        "modes" : [
+            "National Rail"
         ],
         "riverBanks" : [
             "North"
@@ -8710,6 +8795,23 @@
         ],
         "riverBanks" : [
             "South"
+        ]
+    },
+    {
+        "name" : "Seer Green & Jordans",
+        "disambiguation" : null,
+        "localAuthority" : "Buckinghamshire",
+        "lines" : [
+            "Chiltern Railways"
+        ],
+        "zones" : [
+            16
+        ],
+        "modes" : [
+            "National Rail"
+        ],
+        "riverBanks" : [
+            "North"
         ]
     },
     {
