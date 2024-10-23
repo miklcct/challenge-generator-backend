@@ -417,7 +417,7 @@
         "lines" : [
             "District",
             "Hammersmith & City",
-            "C2c"
+            "c2c"
         ],
         "zones" : [
             4
@@ -951,7 +951,7 @@
         "disambiguation" : null,
         "localAuthority" : "Waltham Forest",
         "lines" : [
-            "Victoria, Overground"
+            "Victoria"
         ],
         "zones" : [
             3
@@ -9818,7 +9818,7 @@
             "Overground",
             "Elizabeth line",
             "Greater Anglia",
-            "C2c"
+            "c2c"
         ],
         "zones" : [
             2,
@@ -9876,8 +9876,7 @@
         "lines" : [
             "Southeastern"
         ],
-        "zones" : [
-        ],
+        "zones" : [0],
         "modes" : [
             "National Rail"
         ],
@@ -10653,7 +10652,7 @@
         "localAuthority" : "Havering",
         "lines" : [
             "District",
-            "C2c"
+            "c2c"
         ],
         "zones" : [
             6
@@ -11143,7 +11142,7 @@
         "localAuthority" : "Watford",
         "lines" : [
             "London Northwestern Railway",
-            "London Overground"
+            "Overground"
         ],
         "zones" : [
             10
@@ -11395,7 +11394,7 @@
             "Hammersmith & City",
             "Jubilee",
             "DLR",
-            "C2c"
+            "c2c"
         ],
         "zones" : [
             2,

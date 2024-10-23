@@ -1,3 +1,7 @@
+# [1.2.0] - 2024-10-23
+* add the ability to specify lines for the basket
+* assign Stratford International (NR) in pseudo-zone 0
+
 # [1.1.1] - 2024-10-23
 * add disambiguation at Shadwell
 
