@@ -8869,7 +8869,7 @@
     },
     {
         "name" : "Shadwell",
-        "disambiguation" : null,
+        "disambiguation" : "DLR",
         "localAuthority" : "Tower Hamlets",
         "lines" : [
             "DLR"
@@ -8886,7 +8886,7 @@
     },
     {
         "name" : "Shadwell",
-        "disambiguation" : null,
+        "disambiguation" : "Overground",
         "localAuthority" : "Tower Hamlets",
         "lines" : [
             "Overground"
