@@ -1,3 +1,7 @@
+# [1.3.0] - 2024-12-13
+* London Overground line renaming
+* add missing National Rail lines
+
 # [1.2.0] - 2024-10-23
 * add the ability to specify lines for the basket
 * assign Stratford International (NR) in pseudo-zone 0
