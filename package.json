@@ -1,6 +1,6 @@
 {
   "name": "challenge-generator-backend",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Back end for Tube Challenge Generator",
   "type": "module",
   "main": "dist/index.js",
@@ -19,13 +19,13 @@
     "underground",
     "rail"
   ],
-  "homepage": "https://github.com/metroapps/challenge-generator-backend",
-  "bugs": "https://github.com/metroapps/challenge-generator-backend/issues",
+  "homepage": "https://github.com/miklcct/challenge-generator-backend",
+  "bugs": "https://github.com/miklcct/challenge-generator-backend/issues",
   "license": "LGPL-3.0-or-later",
   "author": {
     "name": "Michael Tsang",
-    "email": "michael@metroapps.uk",
-    "url": "https://metroapps.uk/about"
+    "email": "miklcct@gmail.com",
+    "url": "https://miklcct.com/"
   },
   "devDependencies": {
     "typescript": "^5.4.5"
