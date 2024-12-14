@@ -128,7 +128,12 @@ export const tflLines = [
     "Victoria",
     "Waterloo & City",
     "DLR",
-    "Overground",
+    "Liberty",
+    "Lioness",
+    "Mildmay",
+    "Suffragette",
+    "Weaver",
+    "Windrush",
     "Elizabeth line",
     "Tram"
 ];
