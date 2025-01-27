@@ -1,3 +1,6 @@
+# [1.4.0] - 2025-02-02
+* add new Project Oval phase 1b stations
+
 # [1.3.3] - 2024-12-14
 * Overground line order
 
